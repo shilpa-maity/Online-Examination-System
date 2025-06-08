@@ -29,19 +29,22 @@ A full-stack web application for conducting online exams securely and efficientl
 
 🛠️ Installation Steps
 
-# Clone the repo
-git clone https://github.com/your-username/online-exam-system.git
+    # Clone the repo
+     git clone https://github.com/shilpa-maity/Online-Examination-System.git
 
-# Navigate to server
-cd server
-npm install
+    # Navigate to server
+    cd server
+    npm install
 
-# Navigate to client
-cd ../client
-npm install
+    # Navigate to client
+    cd ../client
+    npm install
 
-# Start both servers
-npm start
+    # Start servers
+    node server,js
+
+    #start client
+    npm start
 
 📁 Project Structure
 
